@@ -1,0 +1,15 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\bin\Debug\net6.0\Puzlles.exe
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\bin\Debug\net6.0\Puzlles.deps.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\bin\Debug\net6.0\Puzlles.runtimeconfig.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\bin\Debug\net6.0\Puzlles.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\bin\Debug\net6.0\Puzlles.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.csproj.CoreCompileInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\refint\Puzlles.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\Puzlles.genruntimeconfig.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\Puzlles\obj\Debug\net6.0\ref\Puzlles.dll
